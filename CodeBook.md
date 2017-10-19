@@ -31,7 +31,7 @@ Code book
 
 This code book summarizes the fields in the tidy data file `tidy_average.txt`.
 
-No. | Name | Meaning/Units
+No. | Column Name | Meaning
 ------- | ------- | -------
 1 | subject   |  the ID of subjects with range from 1 to 30 
 2 | activity | the descriptive names of the activities performed (LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS)
