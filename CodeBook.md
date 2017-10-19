@@ -16,7 +16,7 @@ These signals were used to estimate variables of the feature vector for each pat
 
 ### Variable
 
-During the getting and cleansing data in `run_analysis.R`, the following variables are used:
+During the getting and cleaning data in `run_analysis.R`, the following variables are used:
 
 - `X_train`, `X_test`, `y_train`, `y_test`, `subject_train` and `subject_test` contain the raw data respectively from the files `X_train.txt`, `X_test.txt`, `y_train.txt`, `y_test.txt`, `subject_train.txt` and `subject_test.txt`.
 - `X`, `y` and `subject` merge the training and test sets.
