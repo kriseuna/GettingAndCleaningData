@@ -1,4 +1,4 @@
-This is the Getting and Cleansing Data course project. The repository contains the R code and documentation files of the project.
+This is the Getting and Cleaning Data course project. The repository contains the R code and documentation files of the project.
 
 Files
 =======
